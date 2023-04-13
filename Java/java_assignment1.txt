@@ -1,0 +1,40 @@
+1 => Java converts source code or .java file into bytecode or .class file using javac. Then JVM loads .class file or bytecode convert it into machine code then bytecode is compiled by JIT compiler. Second step for this process is platform - independent as it only needs JVM which can be used on any platform. Hence Java is Write Once and Run Anywhere.
+
+ 
+2 => Java is pass by value for primitive data types and pass by reference for non primitive data types.
+
+
+3 =>
+
+	class Main{
+		public static void main(String[] args){
+		
+			char ch = 'd';
+			int val = (int)ch+3;
+			System.out.println((char)val);
+			
+		}
+	}
+	
+ 
+
+4 => 8 bits
+
+5 => c and e 
+
+6 => a and c will give 7
+
+7 => e and h will run
+
+8 => 1
+
+9 => 1,3
+
+10 => 5
+
+11 => 	0
+	1	
+
+12 => 30
+
+
